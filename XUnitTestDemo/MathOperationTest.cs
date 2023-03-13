@@ -31,7 +31,7 @@ namespace XUnitTestDemo
             var num2 = 3.1;
             var expectedValue = -0.2;
 
-            // Act  
+            // Act   
             var sub = MathOperation.Subtract(num1, num2);
 
             //Assert  
